@@ -22,7 +22,6 @@
     <Folder Include="Views\Shared\" />
     <Folder Include="Views\Admin\" />
     <Folder Include="wwwroot\" />
-    <Folder Include="Controllers\" />
     <Folder Include="ViewModels\" />
   </ItemGroup>
   <ItemGroup>
